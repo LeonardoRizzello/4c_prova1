@@ -1,14 +1,15 @@
 /*
  * 
- * @author Samuele Panico
- * @version 1.0
+ * @author Rizzello Leonardo
+ * 
+ * @version 2.0
  */
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	System.out.println("Progetto di prova GitHub");
+		System.out.println("prova 2");
 	}
 
 }
